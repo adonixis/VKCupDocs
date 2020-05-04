@@ -1,0 +1,2 @@
+rootProject.name='VK Cup Docs'
+include ':app'

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">VK Cup Docs</string>
+
+    <string name="btn_vk_login">Войти</string>
+    <string name="btn_vk_logout">Выйти</string>
+    <string name="btn_cancel">Отменить</string>
+    <string name="btn_save">Сохранить</string>
+
+    <string name="title_docs">Документы</string>
+
+    <string name="title_today">сегодня</string>
+    <string name="title_yesterday">вчера</string>
+
+    <string name="hint_new_title">Новое название файла</string>
+
+    <string name="snackbar_action_hide">Скрыть</string>
+
+    <string name="action_rename">Переименовать</string>
+    <string name="action_remove">Удалить документ</string>
+
+    <integer name="com_vk_sdk_AppId" translatable="false">7339622</integer>
+</resources>

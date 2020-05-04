@@ -1,7 +1,8 @@
 # VKCupDocs
 Android app for showing list of docs for [Task A](https://codeforces.com/contest/1309/problem/A) in [VK Cup 2019-2020](https://vk.com/cup) 
 
-![Screenshot](https://user-images.githubusercontent.com/1766863/80958314-40782480-8e1e-11ea-884d-1d89936e3bdb.png)
+![Screenshot1](https://user-images.githubusercontent.com/1766863/80958314-40782480-8e1e-11ea-884d-1d89936e3bdb.png)
+![Screenshot2](https://user-images.githubusercontent.com/1766863/80960820-0eb58c80-8e23-11ea-99d9-30226170066d.png)
 
 
 License
